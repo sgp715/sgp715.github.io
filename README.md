@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Blog
 
 You can use the [editor on GitHub](https://github.com/sgp715/sgp715.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
