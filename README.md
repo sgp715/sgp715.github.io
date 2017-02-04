@@ -8,6 +8,7 @@ I enjoy programming, and I enjoy learning new technologies. I decided to create 
 * Chat client from scratch coded in Rust
     * Learn: Rust, Networking, Websockets
     * Goal: Build a chat client coded in Rust from scratch
+    * [Starting point](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html#handshake)
 * Binary classification of images using a R-CNN and Tensorflow
     * Learn: R-CNN's, Tensorflow
     * Goal: Build an R-CNN to classify/tag image clothing,
