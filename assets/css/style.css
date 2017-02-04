@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+    background: #ff3300 0 0 repeat-x;
+}
