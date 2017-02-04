@@ -1,5 +1,5 @@
 ## About Me
-I enjoy programming and I enjoy learning new technologies. I decided to create this blog because I wanted to be able to talk through projects as I begin working on them. And them be able to come back and look at the progress I have made and remember the process of going through the project as well. If I also happen to help someone else learn something along the way that's a bonus.
+I enjoy programming, and I enjoy learning new technologies. I decided to create this blog because I wanted to be able to talk through projects as I am working on them. I also want be able to come back and look at the process of learning. If I also happen to help someone else learn something along the way, that's a bonus.
 
 ## Posts
 * None
@@ -10,4 +10,4 @@ I enjoy programming and I enjoy learning new technologies. I decided to create t
     * Goal: Build a chat client coded in Rust from scratch
 * Binary classification of images using a R-CNN and Tensorflow
     * Learn: R-CNN's, Tensorflow
-    * Goal: Build an R-CNN to classify/tag image clothing
+    * Goal: Build an R-CNN to classify/tag image clothing,
